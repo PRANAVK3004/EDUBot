@@ -66,10 +66,7 @@ EDUbot is a sophisticated chatbot designed to provide informative and engaging r
 
 We welcome contributions to EDUbot\! Feel free to submit issues, pull requests, and feature requests.
 
-**License**
-
-This project is licensed under the [MIT License](https://www.google.com/url?sa=E&source=gmail&q=LICENSE).
 
 **Contact**
 
-For any questions or inquiries, please contact [your email address].
+For any questions or inquiries, please contact [kumbhojkarpranav2@gmail.com].
