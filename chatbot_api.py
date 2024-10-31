@@ -6,10 +6,10 @@ from groq import Groq
 app = Flask(__name__)
 CORS(app)
 
-client = Groq(api_key="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")
-#client = Groq(
- #   api_key=os.environ.get("API_KEY"),
-#) 
+
+client = Groq(
+   api_key=os.environ.get("API_KEY"),
+) 
 with open(r"C:\Users\kumbh\Downloads\JSPMdata.csv", "r") as file:
     csv_content = file.read()
 
