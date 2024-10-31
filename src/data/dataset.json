@@ -1,0 +1,11 @@
+[
+    {
+      "prompt": "hello",
+      "response": "Hi there! How can I help you today?"
+    },
+    {
+      "prompt": "what is your name",
+      "response": "I am EduBot, your personal assistant!"
+    }
+  ]
+  
